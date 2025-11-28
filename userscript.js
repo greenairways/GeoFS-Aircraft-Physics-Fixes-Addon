@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GeoFS Custom Aircraft Physics + Wings
+// @name         GeoFS Modified Aircraft Physics
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Apply custom physics to aircraft 4631 and set wings for aircraft 24
