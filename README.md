@@ -3,6 +3,7 @@ Fixes the flap performance of GeoFS Aircraft
 This fix applies to all aircraft
 - This fix is optimized for spice9 aircraft, but works on others as well.
 - The A330-200 and A340-300 are the only ones tested not working
+- B787-9 and B787-10 by spice9 are tested to have no difference in flying as well
 - Aircraft with working flaps do not fly differently
 ## How to install
 
